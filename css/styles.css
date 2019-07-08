@@ -1,0 +1,133 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+    width: 100%;
+}
+
+.col-md-4 {
+    padding: 70px;
+}
+
+.panel.panel-info .panel-body {
+    padding: 10px 0px;
+}
+
+.panel.panel-info .panel-credits {
+    text-align: center;
+    font-size: smaller;
+    font-weight: 700;
+}
+
+.col-md-4_credits {
+	padding:50px 70px 0px 70px; 
+}
+
+.panel-heading h5 {
+    text-align: center;
+}
+
+.panel-body img {
+    padding: 12px;
+}
+
+.panel-footer h6 {
+    text-align: center;
+    padding-top: 25px;
+}
+
+.row_footer {
+    display: -ms-flexbox;
+    background-color: #414140;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.row_footer h3, h4, h5, h6, p {
+    color: white;
+}
+
+@media (min-width: 768px)
+.col-md-4_social_icons {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+}
+
+.col-md-4_social_icons {
+	padding:50px 70px 0px 70px; 
+}
+
+.col-md-4_yolomy {
+	padding:50px 70px 0px 70px; 
+}
+
+.col-md-4_yolomy p {
+    font-size: small;
+}
+
+.panel-heading_footer_left {
+    padding-top: 25%;
+    padding-left: 5%;
+}
+
+.panel-credits {
+    padding-top: 20%;
+}
+
+.panel-credits p {
+    font-size: medium;
+    margin-bottom: 0;
+}
+
+ul#footer_list li {
+    display: inline;
+}
+
+li.footer_list {
+    border-right: solid #ce804f;
+}
+
+.card-footer_sale {
+    background-color: #515151;
+    padding: 10px;
+}
+
+.col-md-3 img {
+    float: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card-footer_sale p {
+    padding-top: 10px;
+}
+
+.card_aboutus {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-clip: border-box;
+}
+
+.col-md-1 li {
+    display: inline;
+}
+
+.col-sm_credits {
+    border-right: solid #cc9877;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-size: small;
+} 
+
+.col-sm {
+    color: white;
+    font-size: small;
+}	
+
